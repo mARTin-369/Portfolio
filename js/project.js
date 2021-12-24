@@ -11,8 +11,8 @@ function getParameterByName(name, url = window.location.href) {
 
 function load(project_name)
 {
-   //var url = `${host}resources/projects/${project_name}.json`;
-    var url = `${project_name}.json`;
+   //var url = `resources/projects/${project_name}.json`;
+    var url = `resources/projects/${project_name}.json`;
    var request;
 
    if(window.XMLHttpRequest){  
