@@ -1,4 +1,4 @@
-const host = "http://127.0.0.1:5500/";
+const host = "";
 
 function getParameterByName(name, url = window.location.href) {
     name = name.replace(/[\[\]]/g, '\\$&');
