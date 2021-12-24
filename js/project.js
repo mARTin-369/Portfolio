@@ -1,4 +1,4 @@
-const host = "";
+const host = "https://github.com/mARTin-369/Portfolio/tree/main/";
 
 function getParameterByName(name, url = window.location.href) {
     name = name.replace(/[\[\]]/g, '\\$&');
